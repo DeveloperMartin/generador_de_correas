@@ -2,7 +2,7 @@
  
  ### ¿Para que sirve?
  
-Esta implementación para el software AutoCAD fue desarollado para ahorrar considerablemente el tiempo de trabajo al dibujar la pieza y el margen de error en al dibujar los perfiles conformados a partir de bobinas con forma de C y Z para la sujetacion de las estructuras metalicas tanto en el lateral como en el techo comunmente conocidas como correas conformadas para techo y laterales, estas pueden existir en varios espesores y medidas de pliege ademas tienen orificios para la sujetación con bulones al esqueleto de la estructura los cuales deben tener una medida exacta.
+Esta implementación para el software AutoCAD fue desarollado para ahorrar considerablemente el tiempo de trabajo al dibujar la pieza y el margen de error al dibujar los perfiles conformados a partir de bobinas con forma de C y Z para la sujetacion de las estructuras metalicas tanto en el lateral como en el techo comunmente conocidas como correas conformadas para techo y laterales, estas pueden existir en varios espesores y medidas de pliege ademas tienen orificios para la sujetación con bulones al esqueleto de la estructura los cuales deben tener una medida exacta.
 ![Image of Yaktocat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9dQrBLgtC5Eqjh8C1gA5lJuWf8GljgQMgf-zQa6qO1VyF8J_b&s)
 
 
